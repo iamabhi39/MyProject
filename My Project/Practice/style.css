@@ -1,0 +1,17 @@
+*
+{
+    background-color: antiquewhite;
+    padding: auto;
+}
+h1{
+    text-align: center;
+    text-shadow: 0cap;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a{
+   text-decoration: dotted;
+}
+p{
+ text-align: right;
+}
